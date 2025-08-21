@@ -5,6 +5,11 @@ issueで作る、vibe coding
 
 # codespaceでやることを進める！
 
+https://github.com/google-github-actions/run-gemini-cli
+<- このurlをみてやったほうが良い。
+
+
+
 01 : 
 npm install -g @google/gemini-cli
 最初は、npmのversion errorが出る。
