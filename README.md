@@ -10,7 +10,7 @@ npm install -g @google/gemini-cli
 最初は、npmのversion errorが出る。
 
 02 : 
-cd /workspaces/Pre_qrcode_maker_2/.github/workflows
+cd /workspaces/your repository /.github/workflows
 
 03 : 
 gemini
