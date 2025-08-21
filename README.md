@@ -14,14 +14,11 @@ https://github.com/google-github-actions/run-gemini-cli
 npm install -g @google/gemini-cli
 最初は、npmのversion errorが出る。
 
-{ 02 : 
-cd /workspaces/your repository /.github/workflows
-} <- これいらない。
 
-03 : 
+02 : 
 gemini
 
-04 : 
+03 : 
 Gemini CLI で、次のように入力します。
 /setup-github
 
