@@ -9,8 +9,9 @@ issueで作る、vibe coding
 npm install -g @google/gemini-cli
 最初は、npmのversion errorが出る。
 
-02 : 
+{ 02 : 
 cd /workspaces/your repository /.github/workflows
+} <- これいらない。
 
 03 : 
 gemini
